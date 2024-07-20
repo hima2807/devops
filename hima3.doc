@@ -1,0 +1,10 @@
+GIT PUSH -
+Git push command is used to upload local repository content to a remote repository.
+It is how you transfer commits from your local repository to a remote repository.
+It's the counterpart to git fetch but fetching imports commits to local branches, pushing exports commits to remote branches.
+GIT INIT - 
+Git init command creates a git repository.
+It can be used to convert an existing, unversioned project to a git repository.
+It can initialize a new, empty repository.
+It create a new .git subdirectory in your current working directory.
+
